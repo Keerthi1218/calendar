@@ -53,7 +53,7 @@ The app will run at:
 
 Add your screenshot below:
 
-![Calendar App](./src/assets/Calendar.png)
+![Calendar App](Calendar.png)
 
 ## 💡 How It Works
 
